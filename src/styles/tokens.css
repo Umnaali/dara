@@ -1,0 +1,31 @@
+:root {
+  /* Color Palette (Sampled & Specified) */
+  --color-dara-black: #000000;
+  --color-dara-dark: #0B0C0E;
+  --color-dara-strip: #191919;
+  --color-dara-cream: #EFEDE3;       /* Our approach, Contact */
+  --color-dara-beige-rak: #EBE7D6;    /* RAK section */
+  --color-dara-beige-land: #E9E5D2;   /* Landscape section */
+  --color-dara-text-dark: #1A1A1A;
+  --color-dara-text-muted: #666666;
+  --color-dara-text-light: #FFFFFF;
+
+  /* Typography Sizes & Line Heights (Confirmed explicitly from DARA PDF) */
+  --font-size-h1: 64px;
+  --line-height-h1: 1.1;
+  --font-size-h2: 36px;
+  --line-height-h2: 1.2;
+  --font-size-lead: 20px;
+  --line-height-lead: 1.4;
+  --font-size-body: 16px;
+  --line-height-body: 19px;
+
+  /* Layout Spacing */
+  --container-max-width: 1440px;
+  --margin-left-content: 90px;
+  --margin-right-content: 1350px;
+
+  /* Radius Tokens */
+  --radius-pill: 9999px;
+  --radius-card: 24px;
+}
